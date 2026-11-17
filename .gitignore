@@ -1,0 +1,10 @@
+# Patient-level data are never committed
+data/
+*.xlsx
+*.sav
+*.csv
+
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
